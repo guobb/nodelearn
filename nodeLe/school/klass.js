@@ -1,7 +1,7 @@
 var student = require('./student');
 var teacher = require('./teacher');
 
-teacher.add('cott');
+//teacher.add('cott');
 
 function add(teachername, students) {
 
