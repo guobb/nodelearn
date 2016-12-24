@@ -15,3 +15,5 @@ http
 
     })
     .listen(2015);
+
+//mac测试 ab -n1000 -c10 http://localhost:2015/
